@@ -158,6 +158,9 @@ For VPS/cloud hosts, avoid third-party "1-click" marketplace images when possibl
   <Card title="Bun" href="/install/bun" icon="zap">
     CLI-only usage via the Bun runtime.
   </Card>
+  <Card title="GitHub Codespaces" href="/install/codespaces" icon="github">
+    Instant cloud dev environment — no local install needed.
+  </Card>
 </CardGroup>
 
 ## After install
